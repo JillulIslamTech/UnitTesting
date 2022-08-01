@@ -15,5 +15,4 @@ public class Greeter {
         }
         return message;
     }
-
 }
