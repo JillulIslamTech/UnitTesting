@@ -35,8 +35,4 @@ public class GreeterTest {
     void givenTheTimeIs25ReturnInvalidInput(){
         Assertions.assertEquals("Good evening", Greeter.getGreeting(25));
     }
-
-    
-
-
 }
